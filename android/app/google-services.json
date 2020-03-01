@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722087315433",
+    "firebase_url": "https://holi-prevention-app.firebaseio.com",
+    "project_id": "holi-prevention-app",
+    "storage_bucket": "holi-prevention-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722087315433:android:9156c1625b868e287f2d78",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722087315433-ea77o4liufd3o0mid8je3qq453dsmi9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mJDs5XqfQhZEDqrfUzkKNPfEnTh4QfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722087315433-ea77o4liufd3o0mid8je3qq453dsmi9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
